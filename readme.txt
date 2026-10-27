@@ -14,7 +14,7 @@ Did it over the course of a couple of days, so probably about 7 hours total.
 
 3. What online resources did you consult when completing this assignment? (list sites like StackOverflow or specific URLs for tutorials; describe queries to Generative AI or use of AI-based code completion)
 
-- I used Claude Code to teach me how to use certain functions like the event listener. It also helped remind me how to use Vega-lite, as the lecture slides alone were not enough for me. I also gave it the rubric for the assignment and it told me what points I missed, which allowed me to fix them before turning in the assignment. I called upon it to help me with my ts/js syntax because that was easier than looking up the documentation. 
+- I used Claude Code to teach me how to use certain functions like the event listener. It also helped remind me how to use Vega-lite, as the lecture slides alone were not enough for me. I also gave it the rubric for the assignment and it told me what points I missed, which allowed me to fix them before turning in the assignment. I called upon it to help me with my ts/js syntax because that was easier than looking up the documentation. If claude suggested any new code, or any code edits, I went through the code with it file by file to understand how it works, and was part of the revision process.
 - The positive and negative words in the sentiment bonus come from Hu and Liu's Opinion Lexicon (https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#lexicon).
 - I also used Claude Code to help me with my comprehension of Vega, Vega-Lite, and math.js, to check how they handle dates, and number formatting.
 
